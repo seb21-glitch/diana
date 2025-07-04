@@ -1,0 +1,19 @@
+{
+  "name": "astro-tailwind-example",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+ "dependencies": {
+  "astro": "^4.0.0",
+  "@astrojs/tailwind": "^4.0.0"
+
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.4.1"
+  }
+}
